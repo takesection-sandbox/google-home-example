@@ -1,0 +1,15 @@
+{
+  "name": "google-home-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shigeki Shoji",
+  "license": "MIT"
+}
